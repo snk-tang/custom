@@ -1,2 +1,8 @@
 #include <stdio.h>
-aaaaa
+
+int main()
+
+{
+printf("one");	
+ }
+
